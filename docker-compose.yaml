@@ -1,4 +1,5 @@
 services:
+
   affine:
     image: ghcr.io/toeverything/affine-graphql:stable
     container_name: affine_selfhosted
